@@ -34,5 +34,9 @@ Iprec：累积降水量（mm）
 - 分组与聚合操作
 
 ## 分析结果
-<center>![](https://github.com/h-hkai/Python_PM2.5/blob/master/%E5%9F%BA%E4%BA%8E%E5%A4%A9%E6%95%B0%E5%AF%B9%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E7%9A%84%E6%95%B0%E6%8D%AE%E8%BF%9B%E8%A1%8C%E5%AF%B9%E6%AF%94.png)</center>
-<center>![](https://github.com/h-hkai/Python_PM2.5/blob/master/%E6%AF%8F%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%9A%84%E6%B1%A1%E6%9F%93%E7%8A%B6%E5%86%B5.png)</center>
+<div style="align: center">
+<img src="https://github.com/h-hkai/Python_PM2.5/blob/master/%E5%9F%BA%E4%BA%8E%E5%A4%A9%E6%95%B0%E5%AF%B9%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E7%9A%84%E6%95%B0%E6%8D%AE%E8%BF%9B%E8%A1%8C%E5%AF%B9%E6%AF%94.png"/>
+</div>
+<div style="align: center">
+<img src="https://github.com/h-hkai/Python_PM2.5/blob/master/%E6%AF%8F%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%9A%84%E6%B1%A1%E6%9F%93%E7%8A%B6%E5%86%B5.png"/>
+</div>
